@@ -43,6 +43,7 @@ sudo apt install ike-scan
 Clona el repositorio y entra en la carpeta:
 ```bash
 git clone https://github.com/Frib1t/psk_bruteforce_v2.git
+```
 ```bash
 cd psk_bruteforce_v2
 ```
